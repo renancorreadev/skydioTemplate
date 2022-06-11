@@ -1,0 +1,7 @@
+{
+    "entryPoints": ["src/"],
+    "name": "TypeDoc Pages Plugin",
+    "out": "docs",
+    "exclude": ["**/src/pages/**/*.ts", "**/src/pages/**/*.tsx"],
+    "readme": "./docs/test.md"
+}

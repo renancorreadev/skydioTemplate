@@ -6,9 +6,9 @@
 
 ### Properties
 
--   [age](PersonProps.md#age)
--   [city](PersonProps.md#city)
--   [name](PersonProps.md#name)
+- [age](PersonProps.md#age)
+- [city](PersonProps.md#city)
+- [name](PersonProps.md#name)
 
 ## Properties
 
@@ -18,7 +18,7 @@
 
 #### Defined in
 
-interfaces/personProps.ts:3
+[src/interfaces/personProps.ts:3](https://github.com/renancorreadev/skydioTemplate/blob/425de72/src/interfaces/personProps.ts#L3)
 
 ---
 
@@ -28,7 +28,7 @@ interfaces/personProps.ts:3
 
 #### Defined in
 
-interfaces/personProps.ts:4
+[src/interfaces/personProps.ts:4](https://github.com/renancorreadev/skydioTemplate/blob/425de72/src/interfaces/personProps.ts#L4)
 
 ---
 
@@ -38,4 +38,4 @@ interfaces/personProps.ts:4
 
 #### Defined in
 
-interfaces/personProps.ts:2
+[src/interfaces/personProps.ts:2](https://github.com/renancorreadev/skydioTemplate/blob/425de72/src/interfaces/personProps.ts#L2)
